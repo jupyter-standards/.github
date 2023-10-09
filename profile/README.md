@@ -10,9 +10,14 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-This organization contains standards and protocols for [Project Jupyter](https://jupyter.org).
+The standards and protocols for [Project Jupyter](https://jupyter.org) are defined in repositories on [jupyter GitHub organization](https://github.com/jupyter). In particular,
+
+- The Jupyter schemas (like the notebook format): https://github.com/jupyter/schema
+- The kernel protocol: https://github.com/jupyter/kernel-protocol
+- The Jupyter flavored Markdown: https://github.com/jupyter/markdown
 
 ### Standards Links
+
 - [Jupyter Enhancement Proposals (JEPs) Repo](https://github.com/jupyter/enhancement-proposals)
 - [JEPs Rendered pages](https://jupyter.org/enhancement-proposals/README.html)
 
